@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1598318432 source:c:\users\venni\desktop\bscit 2nd year (sem 2)\assignments (second sem)\programming assignments\question two\main.cpp
+	<iostream>
+	<math.h>
+	<bits/stdc++.h>
+	<sstream>
+
